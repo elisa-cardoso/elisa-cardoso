@@ -1,9 +1,10 @@
-### Olá! Eu sou a Elisa (ﾉ◕ヮ◕)ﾉ
+<h1>Olá! Eu sou a Elisa (ﾉ◕ヮ◕)ﾉ</h1>
+
+### 
 
 <div>
   <a href="https://github.com/elisa-cardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisa-cardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisa-cardoso&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="right" alt="" width="150" src="https://cdn.discordapp.com/attachments/306994155605852161/1209212512877420604/758f1cd8cede9c3e4711306fc030f4ce.gif?ex=65e619e9&is=65d3a4e9&hm=29f7db0680770abd385ca77fbcdb9302d5f64bdf3a47e9bc28de20eb254ac899&">
