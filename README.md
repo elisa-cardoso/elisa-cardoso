@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisa-cardoso&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="right" alt="" width="300" src="https://cdn.discordapp.com/attachments/306994155605852161/1209214476922912808/5e81ab3aeb21b9639014300f326ae1a2.gif?ex=65e61bbd&is=65d3a6bd&hm=3449b821571cb02f977e2a44b9327d5ba04e05e47d06af401de24df9564bc8fb&">
+    <img align="right" alt="" width="200" src="https://cdn.discordapp.com/attachments/306994155605852161/1209212512877420604/758f1cd8cede9c3e4711306fc030f4ce.gif?ex=65e619e9&is=65d3a4e9&hm=29f7db0680770abd385ca77fbcdb9302d5f64bdf3a47e9bc28de20eb254ac899&">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
