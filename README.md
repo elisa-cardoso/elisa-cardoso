@@ -3,8 +3,8 @@
 <br> 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" height="290em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisa-cardoso&layout=compact&langs_count=16&theme=dark" height="290em" />
+  <img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" height="240em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisa-cardoso&layout=compact&langs_count=16&theme=dark" height="240em" />
 </p>
 
 <br>
